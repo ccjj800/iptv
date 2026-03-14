@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-14 15:31:07,https://vip.taoiptv.com/live/iptv.php?id=100100&sign=74b412&token=vj19lofy5hzoexdj
+2026-03-14 18:10:10,https://vip.taoiptv.com/live/iptv.php?id=100100&sign=74b412&token=vj19lofy5hzoexdj
 
 📺央视频道,#genre#
 CCTV-1,https://vip.taoiptv.com/live/iptv.php?id=100100&sign=74b412&token=vj19lofy5hzoexdj
@@ -209,3 +209,19 @@ CCTV-4K,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com
 河南民生,https://vip.taoiptv.com/live/iptv.php?id=130105&sign=74b412&token=vj19lofy5hzoexdj
 河南新闻,https://vip.taoiptv.com/live/iptv.php?id=130120&sign=74b412&token=vj19lofy5hzoexdj
 河南公共,https://vip.taoiptv.com/live/iptv.php?id=130130&sign=74b412&token=vj19lofy5hzoexdj
+
+电影轮播,#genre#
+
+电视剧集,#genre#
+橙记港剧,http://www.goodiptv.club/douyu/4549169
+好剧看不停,https://goodiptv.club/douyu/9388938
+龙视欢乐英雄转,https://goodiptv.club/douyu/9374836
+世界纪录大全,https://goodiptv.club/douyu/9406359
+到远方旅行,https://goodiptv.club/douyu/9614588
+梦觉教游泳,https://goodiptv.club/douyu/4531679
+内蒙卡秋,https://goodiptv.club/douyu/9067858
+大胡子魏,https://goodiptv.club/douyu/8792763
+神雕侠侣,http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
+
+少儿频道,#genre#
+金鹰卡通,https://live.mgtv.com/?channelId=287
