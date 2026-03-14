@@ -1,11 +1,15 @@
 # 这是订阅源列表，每行一个订阅地址
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
-https://vip.taoiptv.com/source/iptv.m3u?token=vj19lofy5hzoexdj
-https://taoiptv.com/lives/41014.m3u?token=vj19lofy5hzoexdj
-https://taoiptv.com/lives/41015.m3u?token=vj19lofy5hzoexdj
-https://taoiptv.com/lives/41025.m3u?token=vj19lofy5hzoexdj
-https://taoiptv.com/lives/41024.m3u?token=vj19lofy5hzoexdj
-https://taoiptv.com/lives/41023.m3u?token=vj19lofy5hzoexdj
+http://47.120.41.246:8899/xinzb.txt
+http://iptv.4666888.xyz/FYTV.txt
+https://ghfast.top/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u
+https://ghfast.top/github.com/gnodgl/IPTV/blob/master/STV.m3u
+https://ghfast.top/github.com/gnodgl/IPTV/blob/master/IPTV.m3u
+https://ghfast.top/https://raw.githubusercontent.com/gnodgl/IPTV/master/DTV.m3u
+https://ghfast.top/github.com/gnodgl/IPTV/blob/master/CCTV.m3u
+http://rihou.cc:567/gggg.nzk
+https://ghfast.top/https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
+https://live.zbds.top/tv/iptv4.txt
 
 
 
