@@ -1,0 +1,849 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
+https://vip.taoiptv.com/live/iptv.php?id=100100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
+https://vip.taoiptv.com/live/iptv.php?id=100105&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3
+https://vip.taoiptv.com/live/iptv.php?id=100110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4
+https://vip.taoiptv.com/live/iptv.php?id=100115&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
+https://vip.taoiptv.com/live/iptv.php?id=100120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
+https://vip.taoiptv.com/live/iptv.php?id=100125&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
+https://vip.taoiptv.com/live/iptv.php?id=100130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5
+https://vip.taoiptv.com/live/iptv.php?id=100135&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
+https://vip.taoiptv.com/live/iptv.php?id=100140&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6
+https://vip.taoiptv.com/live/iptv.php?id=100145&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV7
+https://vip.taoiptv.com/live/iptv.php?id=100150&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV8
+https://vip.taoiptv.com/live/iptv.php?id=100155&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV9
+https://vip.taoiptv.com/live/iptv.php?id=100165&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV10
+https://vip.taoiptv.com/live/iptv.php?id=100170&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV11
+https://vip.taoiptv.com/live/iptv.php?id=100175&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV12
+https://vip.taoiptv.com/live/iptv.php?id=100180&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
+https://vip.taoiptv.com/live/iptv.php?id=100185&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV14
+https://vip.taoiptv.com/live/iptv.php?id=100190&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15
+https://vip.taoiptv.com/live/iptv.php?id=100195&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV16
+https://vip.taoiptv.com/live/iptv.php?id=100200&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
+https://vip.taoiptv.com/live/iptv.php?id=100205&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" group-title="央视频道",CCTV风云音乐
+https://vip.taoiptv.com/live/iptv.php?id=100210&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
+https://vip.taoiptv.com/live/iptv.php?id=100215&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
+https://vip.taoiptv.com/live/iptv.php?id=100220&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
+https://vip.taoiptv.com/live/iptv.php?id=100225&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.com/tv/CCTV央视精品.png" group-title="央视频道",CCTV央视精品
+https://vip.taoiptv.com/live/iptv.php?id=100230&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" group-title="央视频道",CCTV兵器科技
+https://vip.taoiptv.com/live/iptv.php?id=100235&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
+https://vip.taoiptv.com/live/iptv.php?id=100240&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV高网频道" tvg-logo="https://live.fanmingming.com/tv/CCTV高网频道.png" group-title="央视频道",CCTV高网频道
+https://vip.taoiptv.com/live/iptv.php?id=100245&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
+https://vip.taoiptv.com/live/iptv.php?id=100250&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
+https://vip.taoiptv.com/live/iptv.php?id=100255&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
+https://vip.taoiptv.com/live/iptv.php?id=100260&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
+https://vip.taoiptv.com/live/iptv.php?id=100270&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://vip.taoiptv.com/live/iptv.php?id=101100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://vip.taoiptv.com/live/iptv.php?id=101105&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+https://vip.taoiptv.com/live/iptv.php?id=101110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
+https://vip.taoiptv.com/live/iptv.php?id=101115&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
+https://vip.taoiptv.com/live/iptv.php?id=101120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+https://vip.taoiptv.com/live/iptv.php?id=101125&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
+https://vip.taoiptv.com/live/iptv.php?id=101130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://vip.taoiptv.com/live/iptv.php?id=101135&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+https://vip.taoiptv.com/live/iptv.php?id=101140&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
+https://vip.taoiptv.com/live/iptv.php?id=101145&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
+https://vip.taoiptv.com/live/iptv.php?id=101150&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
+https://vip.taoiptv.com/live/iptv.php?id=101155&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+https://vip.taoiptv.com/live/iptv.php?id=101160&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道",东南卫视
+https://vip.taoiptv.com/live/iptv.php?id=101165&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+https://vip.taoiptv.com/live/iptv.php?id=101170&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
+https://vip.taoiptv.com/live/iptv.php?id=101175&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
+https://vip.taoiptv.com/live/iptv.php?id=101180&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
+https://vip.taoiptv.com/live/iptv.php?id=101185&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://vip.taoiptv.com/live/iptv.php?id=101190&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
+https://vip.taoiptv.com/live/iptv.php?id=101195&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://vip.taoiptv.com/live/iptv.php?id=101200&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道",江西卫视
+https://vip.taoiptv.com/live/iptv.php?id=101205&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+https://vip.taoiptv.com/live/iptv.php?id=101210&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+https://vip.taoiptv.com/live/iptv.php?id=101215&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+https://vip.taoiptv.com/live/iptv.php?id=101220&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
+https://vip.taoiptv.com/live/iptv.php?id=101225&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
+https://vip.taoiptv.com/live/iptv.php?id=101230&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
+https://vip.taoiptv.com/live/iptv.php?id=101235&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+https://vip.taoiptv.com/live/iptv.php?id=101240&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
+https://vip.taoiptv.com/live/iptv.php?id=101245&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视
+https://vip.taoiptv.com/live/iptv.php?id=101255&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+https://vip.taoiptv.com/live/iptv.php?id=101260&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
+https://vip.taoiptv.com/live/iptv.php?id=101265&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
+https://vip.taoiptv.com/live/iptv.php?id=101280&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
+https://vip.taoiptv.com/live/iptv.php?id=101285&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
+https://vip.taoiptv.com/live/iptv.php?id=101290&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷动画.png" group-title="卫视频道",卡酷动画
+https://vip.taoiptv.com/live/iptv.php?id=101295&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="卫视频道",哈哈炫动
+https://vip.taoiptv.com/live/iptv.php?id=101300&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://live.fanmingming.com/tv/少儿动漫.png" group-title="卫视频道",少儿动漫
+https://vip.taoiptv.com/live/iptv.php?id=101301&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="卫视频道",动漫秀场
+https://vip.taoiptv.com/live/iptv.php?id=101302&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视频道",金鹰卡通
+https://vip.taoiptv.com/live/iptv.php?id=101305&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="卫视频道",嘉佳卡通
+https://vip.taoiptv.com/live/iptv.php?id=101310&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="卫视频道",优漫卡通
+https://vip.taoiptv.com/live/iptv.php?id=101315&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://live.fanmingming.com/tv/梨园频道.png" group-title="数字频道",梨园频道
+https://vip.taoiptv.com/live/iptv.php?id=102110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字频道",生活时尚
+https://vip.taoiptv.com/live/iptv.php?id=102115&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="数字频道",国学频道
+https://vip.taoiptv.com/live/iptv.php?id=102120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字频道",中国天气
+https://vip.taoiptv.com/live/iptv.php?id=102125&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="数字频道",中华特产
+https://vip.taoiptv.com/live/iptv.php?id=102130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场
+https://vip.taoiptv.com/live/iptv.php?id=102135&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字频道",都市剧场
+https://vip.taoiptv.com/live/iptv.php?id=102136&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="数字频道",求索记录
+https://vip.taoiptv.com/live/iptv.php?id=102150&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="摄影频道" tvg-logo="https://live.fanmingming.com/tv/摄影频道.png" group-title="数字频道",摄影频道
+https://vip.taoiptv.com/live/iptv.php?id=102175&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="数字频道",天元围棋
+https://vip.taoiptv.com/live/iptv.php?id=102180&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="数字频道",茶频道
+https://vip.taoiptv.com/live/iptv.php?id=102195&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="数字频道",武术世界
+https://vip.taoiptv.com/live/iptv.php?id=102200&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="数字频道",文物宝库
+https://vip.taoiptv.com/live/iptv.php?id=102215&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
+https://vip.taoiptv.com/live/iptv.php?id=102220&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
+https://vip.taoiptv.com/live/iptv.php?id=102235&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.fanmingming.com/tv/车迷频道.png" group-title="数字频道",车迷频道
+https://vip.taoiptv.com/live/iptv.php?id=102250&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="数字频道",优优宝贝
+https://vip.taoiptv.com/live/iptv.php?id=102255&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="数字频道",四海钓鱼
+https://vip.taoiptv.com/live/iptv.php?id=102260&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="动感音乐" tvg-logo="https://live.fanmingming.com/tv/动感音乐.png" group-title="数字频道",动感音乐
+https://vip.taoiptv.com/live/iptv.php?id=102265&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="数字频道",环球旅游
+https://vip.taoiptv.com/live/iptv.php?id=102270&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="购物频道" tvg-logo="https://live.fanmingming.com/tv/购物频道.png" group-title="数字频道",购物频道
+https://vip.taoiptv.com/live/iptv.php?id=102285&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="数字频道",财富天下
+https://vip.taoiptv.com/live/iptv.php?id=102310&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字频道",游戏风云
+https://vip.taoiptv.com/live/iptv.php?id=102330&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="金色频道" tvg-logo="https://live.fanmingming.com/tv/金色频道.png" group-title="数字频道",金色频道
+https://vip.taoiptv.com/live/iptv.php?id=102331&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字频道",金色学堂
+https://vip.taoiptv.com/live/iptv.php?id=102332&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="IPTV频道" tvg-logo="https://live.fanmingming.com/tv/IPTV频道.png" group-title="数字频道",IPTV频道
+https://vip.taoiptv.com/live/iptv.php?id=102335&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="电影频道",家庭影院
+https://vip.taoiptv.com/live/iptv.php?id=103100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/动作电影.png" group-title="电影频道",动作电影
+https://vip.taoiptv.com/live/iptv.php?id=103105&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="影迷电影" tvg-logo="https://live.fanmingming.com/tv/影迷电影.png" group-title="电影频道",影迷电影
+https://vip.taoiptv.com/live/iptv.php?id=103110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://live.fanmingming.com/tv/科幻电影.png" group-title="电影频道",科幻电影
+https://vip.taoiptv.com/live/iptv.php?id=103125&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="电影频道",经典电影
+https://vip.taoiptv.com/live/iptv.php?id=103140&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://live.fanmingming.com/tv/喜剧影院.png" group-title="电影频道",喜剧影院
+https://vip.taoiptv.com/live/iptv.php?id=103141&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="教育频道",中国教育1
+https://vip.taoiptv.com/live/iptv.php?id=104100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="教育频道",中国教育4
+https://vip.taoiptv.com/live/iptv.php?id=104115&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="教育频道",早期教育
+https://vip.taoiptv.com/live/iptv.php?id=104120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="教育频道",CGTN
+https://vip.taoiptv.com/live/iptv.php?id=104125&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CGTN新闻" tvg-logo="https://live.fanmingming.com/tv/CGTN新闻.png" group-title="教育频道",CGTN新闻
+https://vip.taoiptv.com/live/iptv.php?id=104130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="教育频道",CGTN法语
+https://vip.taoiptv.com/live/iptv.php?id=104135&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="教育频道",CGTN俄语
+https://vip.taoiptv.com/live/iptv.php?id=104140&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="教育频道",CGTN阿语
+https://vip.taoiptv.com/live/iptv.php?id=104145&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="教育频道",CGTN西语
+https://vip.taoiptv.com/live/iptv.php?id=104150&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="教育频道",CGTN纪录
+https://vip.taoiptv.com/live/iptv.php?id=104155&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
+https://vip.taoiptv.com/live/iptv.php?id=105100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
+https://vip.taoiptv.com/live/iptv.php?id=105105&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
+https://vip.taoiptv.com/live/iptv.php?id=105110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳频道",翡翠台
+https://vip.taoiptv.com/live/iptv.php?id=105115&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳频道",明珠台
+https://vip.taoiptv.com/live/iptv.php?id=105120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="YY" tvg-logo="https://live.fanmingming.com/tv/YY.png" group-title="怀旧频道",YY
+https://vip.taoiptv.com/live/iptv.php?id=106100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="华东地区",东方影视
+https://vip.taoiptv.com/live/iptv.php?id=110115&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="华东地区",东方财经
+https://vip.taoiptv.com/live/iptv.php?id=110120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="华东地区",第一财经
+https://vip.taoiptv.com/live/iptv.php?id=110125&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="华东地区",五星体育
+https://vip.taoiptv.com/live/iptv.php?id=110130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="华东地区",法治天地
+https://vip.taoiptv.com/live/iptv.php?id=110140&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="浙江经济" tvg-logo="https://live.fanmingming.com/tv/浙江经济.png" group-title="华东地区",浙江经济
+https://vip.taoiptv.com/live/iptv.php?id=110170&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://live.fanmingming.com/tv/浙江钱江.png" group-title="华东地区",浙江钱江
+https://vip.taoiptv.com/live/iptv.php?id=110180&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="华东地区",浙江少儿
+https://vip.taoiptv.com/live/iptv.php?id=110185&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="华东地区",浙江新闻
+https://vip.taoiptv.com/live/iptv.php?id=110200&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="衢州公共" tvg-logo="https://live.fanmingming.com/tv/衢州公共.png" group-title="华东地区",衢州公共
+https://vip.taoiptv.com/live/iptv.php?id=110210&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="绍兴频道" tvg-logo="https://live.fanmingming.com/tv/绍兴频道.png" group-title="华东地区",绍兴频道
+https://vip.taoiptv.com/live/iptv.php?id=110285&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="温州频道" tvg-logo="https://live.fanmingming.com/tv/温州频道.png" group-title="华东地区",温州频道
+https://vip.taoiptv.com/live/iptv.php?id=110305&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="安徽体育" tvg-logo="https://live.fanmingming.com/tv/安徽体育.png" group-title="华东地区",安徽体育
+https://vip.taoiptv.com/live/iptv.php?id=110310&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://live.fanmingming.com/tv/安徽公共.png" group-title="华东地区",安徽公共
+https://vip.taoiptv.com/live/iptv.php?id=110320&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.fanmingming.com/tv/安徽影视.png" group-title="华东地区",安徽影视
+https://vip.taoiptv.com/live/iptv.php?id=110325&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="安徽经济" tvg-logo="https://live.fanmingming.com/tv/安徽经济.png" group-title="华东地区",安徽经济
+https://vip.taoiptv.com/live/iptv.php?id=110330&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="安徽科教" tvg-logo="https://live.fanmingming.com/tv/安徽科教.png" group-title="华东地区",安徽科教
+https://vip.taoiptv.com/live/iptv.php?id=110335&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="安徽人物" tvg-logo="https://live.fanmingming.com/tv/安徽人物.png" group-title="华东地区",安徽人物
+https://vip.taoiptv.com/live/iptv.php?id=110340&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://live.fanmingming.com/tv/安徽国际.png" group-title="华东地区",安徽国际
+https://vip.taoiptv.com/live/iptv.php?id=110345&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="江西公共" tvg-logo="https://live.fanmingming.com/tv/江西公共.png" group-title="华东地区",江西公共
+https://vip.taoiptv.com/live/iptv.php?id=110365&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="华东地区",江西少儿
+https://vip.taoiptv.com/live/iptv.php?id=110370&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="华东地区",江西新闻
+https://vip.taoiptv.com/live/iptv.php?id=110375&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="华东地区",江西教育
+https://vip.taoiptv.com/live/iptv.php?id=110380&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山东公共" tvg-logo="https://live.fanmingming.com/tv/山东公共.png" group-title="华东地区",山东公共
+https://vip.taoiptv.com/live/iptv.php?id=110390&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="华东地区",山东教育
+https://vip.taoiptv.com/live/iptv.php?id=110400&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="华东地区",山东农科
+https://vip.taoiptv.com/live/iptv.php?id=110405&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="华东地区",山东少儿
+https://vip.taoiptv.com/live/iptv.php?id=110410&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="华东地区",山东生活
+https://vip.taoiptv.com/live/iptv.php?id=110415&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="华东地区",山东体育
+https://vip.taoiptv.com/live/iptv.php?id=110420&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山东影视" tvg-logo="https://live.fanmingming.com/tv/山东影视.png" group-title="华东地区",山东影视
+https://vip.taoiptv.com/live/iptv.php?id=110425&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="华东地区",山东综艺
+https://vip.taoiptv.com/live/iptv.php?id=110430&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="烟台经济" tvg-logo="https://live.fanmingming.com/tv/烟台经济.png" group-title="华东地区",烟台经济
+https://vip.taoiptv.com/live/iptv.php?id=110440&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="烟台新闻" tvg-logo="https://live.fanmingming.com/tv/烟台新闻.png" group-title="华东地区",烟台新闻
+https://vip.taoiptv.com/live/iptv.php?id=110445&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://live.fanmingming.com/tv/烟台影视.png" group-title="华东地区",烟台影视
+https://vip.taoiptv.com/live/iptv.php?id=110450&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="齐鲁频道" tvg-logo="https://live.fanmingming.com/tv/齐鲁频道.png" group-title="华东地区",齐鲁频道
+https://vip.taoiptv.com/live/iptv.php?id=110470&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="华东地区",海峡卫视
+https://vip.taoiptv.com/live/iptv.php?id=110505&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="华东地区",福建综合
+https://vip.taoiptv.com/live/iptv.php?id=110510&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="华东地区",福建新闻
+https://vip.taoiptv.com/live/iptv.php?id=110520&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="华东地区",福建旅游
+https://vip.taoiptv.com/live/iptv.php?id=110525&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="华东地区",福建经济
+https://vip.taoiptv.com/live/iptv.php?id=110530&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="华东地区",福建少儿
+https://vip.taoiptv.com/live/iptv.php?id=110535&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="华东地区",福建教育
+https://vip.taoiptv.com/live/iptv.php?id=110540&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="华东地区",福建电视剧
+https://vip.taoiptv.com/live/iptv.php?id=110545&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="漳州新闻" tvg-logo="https://live.fanmingming.com/tv/漳州新闻.png" group-title="华东地区",漳州新闻
+https://vip.taoiptv.com/live/iptv.php?id=110550&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="泉州新闻" tvg-logo="https://live.fanmingming.com/tv/泉州新闻.png" group-title="华东地区",泉州新闻
+https://vip.taoiptv.com/live/iptv.php?id=110555&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="三明新闻" tvg-logo="https://live.fanmingming.com/tv/三明新闻.png" group-title="华东地区",三明新闻
+https://vip.taoiptv.com/live/iptv.php?id=110560&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="莆田新闻" tvg-logo="https://live.fanmingming.com/tv/莆田新闻.png" group-title="华东地区",莆田新闻
+https://vip.taoiptv.com/live/iptv.php?id=110565&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="南平新闻" tvg-logo="https://live.fanmingming.com/tv/南平新闻.png" group-title="华东地区",南平新闻
+https://vip.taoiptv.com/live/iptv.php?id=110570&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="龙岩新闻" tvg-logo="https://live.fanmingming.com/tv/龙岩新闻.png" group-title="华东地区",龙岩新闻
+https://vip.taoiptv.com/live/iptv.php?id=110575&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="宁德新闻" tvg-logo="https://live.fanmingming.com/tv/宁德新闻.png" group-title="华东地区",宁德新闻
+https://vip.taoiptv.com/live/iptv.php?id=110580&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="华北地区",北京文艺
+https://vip.taoiptv.com/live/iptv.php?id=120100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="华北地区",北京影视
+https://vip.taoiptv.com/live/iptv.php?id=120110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="华北地区",北京新闻
+https://vip.taoiptv.com/live/iptv.php?id=120130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="华北地区",北京纪实科教
+https://vip.taoiptv.com/live/iptv.php?id=120135&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="华北地区",北京卡酷少儿
+https://vip.taoiptv.com/live/iptv.php?id=120145&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="北京冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/北京冬奥纪实.png" group-title="华北地区",北京冬奥纪实
+https://vip.taoiptv.com/live/iptv.php?id=120150&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="北京国际频道" tvg-logo="https://live.fanmingming.com/tv/北京国际频道.png" group-title="华北地区",北京国际频道
+https://vip.taoiptv.com/live/iptv.php?id=120155&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="幸福剧场" tvg-logo="https://live.fanmingming.com/tv/幸福剧场.png" group-title="华北地区",幸福剧场
+https://vip.taoiptv.com/live/iptv.php?id=120160&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="幸福娱乐" tvg-logo="https://live.fanmingming.com/tv/幸福娱乐.png" group-title="华北地区",幸福娱乐
+https://vip.taoiptv.com/live/iptv.php?id=120165&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天津都市" tvg-logo="https://live.fanmingming.com/tv/天津都市.png" group-title="华北地区",天津都市
+https://vip.taoiptv.com/live/iptv.php?id=120185&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天津科教" tvg-logo="https://live.fanmingming.com/tv/天津科教.png" group-title="华北地区",天津科教
+https://vip.taoiptv.com/live/iptv.php?id=120195&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天津体育" tvg-logo="https://live.fanmingming.com/tv/天津体育.png" group-title="华北地区",天津体育
+https://vip.taoiptv.com/live/iptv.php?id=120205&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://live.fanmingming.com/tv/天津文艺.png" group-title="华北地区",天津文艺
+https://vip.taoiptv.com/live/iptv.php?id=120210&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://live.fanmingming.com/tv/天津新闻.png" group-title="华北地区",天津新闻
+https://vip.taoiptv.com/live/iptv.php?id=120215&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天津影视" tvg-logo="https://live.fanmingming.com/tv/天津影视.png" group-title="华北地区",天津影视
+https://vip.taoiptv.com/live/iptv.php?id=120220&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="蓟州区" tvg-logo="https://live.fanmingming.com/tv/蓟州区.png" group-title="华北地区",蓟州区
+https://vip.taoiptv.com/live/iptv.php?id=120225&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="风尚生活" tvg-logo="https://live.fanmingming.com/tv/风尚生活.png" group-title="华北地区",风尚生活
+https://vip.taoiptv.com/live/iptv.php?id=120265&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="每日影院" tvg-logo="https://live.fanmingming.com/tv/每日影院.png" group-title="华北地区",每日影院
+https://vip.taoiptv.com/live/iptv.php?id=120270&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山西经济" tvg-logo="https://live.fanmingming.com/tv/山西经济.png" group-title="华北地区",山西经济
+https://vip.taoiptv.com/live/iptv.php?id=120315&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="华北地区",山西影视
+https://vip.taoiptv.com/live/iptv.php?id=120320&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山西社会" tvg-logo="https://live.fanmingming.com/tv/山西社会.png" group-title="华北地区",山西社会
+https://vip.taoiptv.com/live/iptv.php?id=120325&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="华北地区",山西黄河
+https://vip.taoiptv.com/live/iptv.php?id=120330&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/tv/河北经济.png" group-title="华北地区",河北经济
+https://vip.taoiptv.com/live/iptv.php?id=120380&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://live.fanmingming.com/tv/河北都市.png" group-title="华北地区",河北都市
+https://vip.taoiptv.com/live/iptv.php?id=120385&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河北影视" tvg-logo="https://live.fanmingming.com/tv/河北影视.png" group-title="华北地区",河北影视
+https://vip.taoiptv.com/live/iptv.php?id=120390&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河北少儿" tvg-logo="https://live.fanmingming.com/tv/河北少儿.png" group-title="华北地区",河北少儿
+https://vip.taoiptv.com/live/iptv.php?id=120395&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河北公共" tvg-logo="https://live.fanmingming.com/tv/河北公共.png" group-title="华北地区",河北公共
+https://vip.taoiptv.com/live/iptv.php?id=120400&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://live.fanmingming.com/tv/河北农民.png" group-title="华北地区",河北农民
+https://vip.taoiptv.com/live/iptv.php?id=120405&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河北杂技" tvg-logo="https://live.fanmingming.com/tv/河北杂技.png" group-title="华北地区",河北杂技
+https://vip.taoiptv.com/live/iptv.php?id=120410&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="睛彩河北" tvg-logo="https://live.fanmingming.com/tv/睛彩河北.png" group-title="华北地区",睛彩河北
+https://vip.taoiptv.com/live/iptv.php?id=120415&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="华中地区",河南都市
+https://vip.taoiptv.com/live/iptv.php?id=130100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="华中地区",河南民生
+https://vip.taoiptv.com/live/iptv.php?id=130105&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://live.fanmingming.com/tv/河南法治.png" group-title="华中地区",河南法治
+https://vip.taoiptv.com/live/iptv.php?id=130110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://live.fanmingming.com/tv/河南电视剧.png" group-title="华中地区",河南电视剧
+https://vip.taoiptv.com/live/iptv.php?id=130115&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://live.fanmingming.com/tv/河南新闻.png" group-title="华中地区",河南新闻
+https://vip.taoiptv.com/live/iptv.php?id=130120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南购物" tvg-logo="https://live.fanmingming.com/tv/河南购物.png" group-title="华中地区",河南购物
+https://vip.taoiptv.com/live/iptv.php?id=130125&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://live.fanmingming.com/tv/河南公共.png" group-title="华中地区",河南公共
+https://vip.taoiptv.com/live/iptv.php?id=130130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://live.fanmingming.com/tv/河南乡村.png" group-title="华中地区",河南乡村
+https://vip.taoiptv.com/live/iptv.php?id=130135&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="郑州新闻" tvg-logo="https://live.fanmingming.com/tv/郑州新闻.png" group-title="华中地区",郑州新闻
+https://vip.taoiptv.com/live/iptv.php?id=130145&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="郑州商都" tvg-logo="https://live.fanmingming.com/tv/郑州商都.png" group-title="华中地区",郑州商都
+https://vip.taoiptv.com/live/iptv.php?id=130150&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="郑州文旅" tvg-logo="https://live.fanmingming.com/tv/郑州文旅.png" group-title="华中地区",郑州文旅
+https://vip.taoiptv.com/live/iptv.php?id=130155&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="郑州影视" tvg-logo="https://live.fanmingming.com/tv/郑州影视.png" group-title="华中地区",郑州影视
+https://vip.taoiptv.com/live/iptv.php?id=130160&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南文博" tvg-logo="https://live.fanmingming.com/tv/河南文博.png" group-title="华中地区",河南文博
+https://vip.taoiptv.com/live/iptv.php?id=130205&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南功夫" tvg-logo="https://live.fanmingming.com/tv/河南功夫.png" group-title="华中地区",河南功夫
+https://vip.taoiptv.com/live/iptv.php?id=130210&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://live.fanmingming.com/tv/河南戏曲.png" group-title="华中地区",河南戏曲
+https://vip.taoiptv.com/live/iptv.php?id=130215&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河南移动" tvg-logo="https://live.fanmingming.com/tv/河南移动.png" group-title="华中地区",河南移动
+https://vip.taoiptv.com/live/iptv.php?id=130225&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="睛彩中原" tvg-logo="https://live.fanmingming.com/tv/睛彩中原.png" group-title="华中地区",睛彩中原
+https://vip.taoiptv.com/live/iptv.php?id=130230&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://live.fanmingming.com/tv/健康中原.png" group-title="华中地区",健康中原
+https://vip.taoiptv.com/live/iptv.php?id=130235&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="欢腾购物" tvg-logo="https://live.fanmingming.com/tv/欢腾购物.png" group-title="华中地区",欢腾购物
+https://vip.taoiptv.com/live/iptv.php?id=130240&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="华中地区",湖北经视
+https://vip.taoiptv.com/live/iptv.php?id=130250&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="华中地区",湖北综合
+https://vip.taoiptv.com/live/iptv.php?id=130255&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="华中地区",湖北垄上
+https://vip.taoiptv.com/live/iptv.php?id=130260&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://live.fanmingming.com/tv/湖北公共.png" group-title="华中地区",湖北公共
+https://vip.taoiptv.com/live/iptv.php?id=130265&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="华中地区",湖北影视
+https://vip.taoiptv.com/live/iptv.php?id=130270&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="华中地区",湖北教育
+https://vip.taoiptv.com/live/iptv.php?id=130275&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="华中地区",湖北生活
+https://vip.taoiptv.com/live/iptv.php?id=130280&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="武汉新闻" tvg-logo="https://live.fanmingming.com/tv/武汉新闻.png" group-title="华中地区",武汉新闻
+https://vip.taoiptv.com/live/iptv.php?id=130285&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="武汉电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉电视剧.png" group-title="华中地区",武汉电视剧
+https://vip.taoiptv.com/live/iptv.php?id=130290&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="华中地区",武汉文体
+https://vip.taoiptv.com/live/iptv.php?id=130305&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="华中地区",武汉教育
+https://vip.taoiptv.com/live/iptv.php?id=130320&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="房县新闻" tvg-logo="https://live.fanmingming.com/tv/房县新闻.png" group-title="华中地区",房县新闻
+https://vip.taoiptv.com/live/iptv.php?id=130395&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="华中地区",湖南教育
+https://vip.taoiptv.com/live/iptv.php?id=130420&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="华中地区",湖南经视
+https://vip.taoiptv.com/live/iptv.php?id=130430&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="华中地区",湖南都市
+https://vip.taoiptv.com/live/iptv.php?id=130435&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="华中地区",湖南电影
+https://vip.taoiptv.com/live/iptv.php?id=130440&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="华中地区",湖南电视剧
+https://vip.taoiptv.com/live/iptv.php?id=130445&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="华中地区",湖南娱乐
+https://vip.taoiptv.com/live/iptv.php?id=130450&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="华中地区",金鹰纪实
+https://vip.taoiptv.com/live/iptv.php?id=130465&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="https://live.fanmingming.com/tv/长沙新闻.png" group-title="华中地区",长沙新闻
+https://vip.taoiptv.com/live/iptv.php?id=130480&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://live.fanmingming.com/tv/长沙政法.png" group-title="华中地区",长沙政法
+https://vip.taoiptv.com/live/iptv.php?id=130490&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="株洲新闻" tvg-logo="https://live.fanmingming.com/tv/株洲新闻.png" group-title="华中地区",株洲新闻
+https://vip.taoiptv.com/live/iptv.php?id=130515&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="常德新闻" tvg-logo="https://live.fanmingming.com/tv/常德新闻.png" group-title="华中地区",常德新闻
+https://vip.taoiptv.com/live/iptv.php?id=130525&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="怀化新闻" tvg-logo="https://live.fanmingming.com/tv/怀化新闻.png" group-title="华中地区",怀化新闻
+https://vip.taoiptv.com/live/iptv.php?id=130530&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="浏阳新闻" tvg-logo="https://live.fanmingming.com/tv/浏阳新闻.png" group-title="华中地区",浏阳新闻
+https://vip.taoiptv.com/live/iptv.php?id=130535&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湘潭新闻" tvg-logo="https://live.fanmingming.com/tv/湘潭新闻.png" group-title="华中地区",湘潭新闻
+https://vip.taoiptv.com/live/iptv.php?id=130545&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湘西公共" tvg-logo="https://live.fanmingming.com/tv/湘西公共.png" group-title="华中地区",湘西公共
+https://vip.taoiptv.com/live/iptv.php?id=130550&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湘西新闻" tvg-logo="https://live.fanmingming.com/tv/湘西新闻.png" group-title="华中地区",湘西新闻
+https://vip.taoiptv.com/live/iptv.php?id=130555&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="张家界公共" tvg-logo="https://live.fanmingming.com/tv/张家界公共.png" group-title="华中地区",张家界公共
+https://vip.taoiptv.com/live/iptv.php?id=130560&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="张家界新闻" tvg-logo="https://live.fanmingming.com/tv/张家界新闻.png" group-title="华中地区",张家界新闻
+https://vip.taoiptv.com/live/iptv.php?id=130565&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://live.fanmingming.com/tv/南方卫视.png" group-title="华南地区",南方卫视
+https://vip.taoiptv.com/live/iptv.php?id=140100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="华南地区",广东经济
+https://vip.taoiptv.com/live/iptv.php?id=140105&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="华南地区",广东体育
+https://vip.taoiptv.com/live/iptv.php?id=140110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="华南地区",广东珠江
+https://vip.taoiptv.com/live/iptv.php?id=140115&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="华南地区",广东影视
+https://vip.taoiptv.com/live/iptv.php?id=140120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.com/tv/广东公共.png" group-title="华南地区",广东公共
+https://vip.taoiptv.com/live/iptv.php?id=140125&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="华南地区",广东少儿
+https://vip.taoiptv.com/live/iptv.php?id=140130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="华南地区",广东新闻
+https://vip.taoiptv.com/live/iptv.php?id=140135&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广东国际" tvg-logo="https://live.fanmingming.com/tv/广东国际.png" group-title="华南地区",广东国际
+https://vip.taoiptv.com/live/iptv.php?id=140140&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="华南地区",广州综合
+https://vip.taoiptv.com/live/iptv.php?id=140145&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="华南地区",广州新闻
+https://vip.taoiptv.com/live/iptv.php?id=140150&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="华南地区",广州法治
+https://vip.taoiptv.com/live/iptv.php?id=140160&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳体育" tvg-logo="https://live.fanmingming.com/tv/深圳体育.png" group-title="华南地区",深圳体育
+https://vip.taoiptv.com/live/iptv.php?id=140175&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳公共" tvg-logo="https://live.fanmingming.com/tv/深圳公共.png" group-title="华南地区",深圳公共
+https://vip.taoiptv.com/live/iptv.php?id=140180&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳财经" tvg-logo="https://live.fanmingming.com/tv/深圳财经.png" group-title="华南地区",深圳财经
+https://vip.taoiptv.com/live/iptv.php?id=140185&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png" group-title="华南地区",深圳都市
+https://vip.taoiptv.com/live/iptv.php?id=140190&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳娱乐" tvg-logo="https://live.fanmingming.com/tv/深圳娱乐.png" group-title="华南地区",深圳娱乐
+https://vip.taoiptv.com/live/iptv.php?id=140195&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://live.fanmingming.com/tv/深圳少儿.png" group-title="华南地区",深圳少儿
+https://vip.taoiptv.com/live/iptv.php?id=140200&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳盐田台" tvg-logo="https://live.fanmingming.com/tv/深圳盐田台.png" group-title="华南地区",深圳盐田台
+https://vip.taoiptv.com/live/iptv.php?id=140205&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳DV生活" tvg-logo="https://live.fanmingming.com/tv/深圳DV生活.png" group-title="华南地区",深圳DV生活
+https://vip.taoiptv.com/live/iptv.php?id=140215&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://live.fanmingming.com/tv/深圳电视剧.png" group-title="华南地区",深圳电视剧
+https://vip.taoiptv.com/live/iptv.php?id=140220&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://live.fanmingming.com/tv/深圳宜和购物.png" group-title="华南地区",深圳宜和购物
+https://vip.taoiptv.com/live/iptv.php?id=140225&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="东莞新闻" tvg-logo="https://live.fanmingming.com/tv/东莞新闻.png" group-title="华南地区",东莞新闻
+https://vip.taoiptv.com/live/iptv.php?id=140235&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="东莞生活" tvg-logo="https://live.fanmingming.com/tv/东莞生活.png" group-title="华南地区",东莞生活
+https://vip.taoiptv.com/live/iptv.php?id=140240&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="韶关新闻" tvg-logo="https://live.fanmingming.com/tv/韶关新闻.png" group-title="华南地区",韶关新闻
+https://vip.taoiptv.com/live/iptv.php?id=140245&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="湛江公共" tvg-logo="https://live.fanmingming.com/tv/湛江公共.png" group-title="华南地区",湛江公共
+https://vip.taoiptv.com/live/iptv.php?id=140260&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="珠海-1" tvg-logo="https://live.fanmingming.com/tv/珠海-1.png" group-title="华南地区",珠海-1
+https://vip.taoiptv.com/live/iptv.php?id=140265&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="惠州综合" tvg-logo="https://live.fanmingming.com/tv/惠州综合.png" group-title="华南地区",惠州综合
+https://vip.taoiptv.com/live/iptv.php?id=140275&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="惠州公共" tvg-logo="https://live.fanmingming.com/tv/惠州公共.png" group-title="华南地区",惠州公共
+https://vip.taoiptv.com/live/iptv.php?id=140280&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://live.fanmingming.com/tv/揭阳综合.png" group-title="华南地区",揭阳综合
+https://vip.taoiptv.com/live/iptv.php?id=140285&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://live.fanmingming.com/tv/揭阳生活.png" group-title="华南地区",揭阳生活
+https://vip.taoiptv.com/live/iptv.php?id=140290&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="云浮综合" tvg-logo="https://live.fanmingming.com/tv/云浮综合.png" group-title="华南地区",云浮综合
+https://vip.taoiptv.com/live/iptv.php?id=140295&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="云浮文旅" tvg-logo="https://live.fanmingming.com/tv/云浮文旅.png" group-title="华南地区",云浮文旅
+https://vip.taoiptv.com/live/iptv.php?id=140300&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="肇庆综合" tvg-logo="https://live.fanmingming.com/tv/肇庆综合.png" group-title="华南地区",肇庆综合
+https://vip.taoiptv.com/live/iptv.php?id=140305&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="肇庆生活" tvg-logo="https://live.fanmingming.com/tv/肇庆生活.png" group-title="华南地区",肇庆生活
+https://vip.taoiptv.com/live/iptv.php?id=140310&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="清远新闻" tvg-logo="https://live.fanmingming.com/tv/清远新闻.png" group-title="华南地区",清远新闻
+https://vip.taoiptv.com/live/iptv.php?id=140315&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="华南地区",汕头综合
+https://vip.taoiptv.com/live/iptv.php?id=140325&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="华南地区",汕头经济
+https://vip.taoiptv.com/live/iptv.php?id=140330&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="汕尾综合" tvg-logo="https://live.fanmingming.com/tv/汕尾综合.png" group-title="华南地区",汕尾综合
+https://vip.taoiptv.com/live/iptv.php?id=140340&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="汕尾公共" tvg-logo="https://live.fanmingming.com/tv/汕尾公共.png" group-title="华南地区",汕尾公共
+https://vip.taoiptv.com/live/iptv.php?id=140345&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="佛山公共" tvg-logo="https://live.fanmingming.com/tv/佛山公共.png" group-title="华南地区",佛山公共
+https://vip.taoiptv.com/live/iptv.php?id=140350&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="佛山南海" tvg-logo="https://live.fanmingming.com/tv/佛山南海.png" group-title="华南地区",佛山南海
+https://vip.taoiptv.com/live/iptv.php?id=140355&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://live.fanmingming.com/tv/佛山顺德.png" group-title="华南地区",佛山顺德
+https://vip.taoiptv.com/live/iptv.php?id=140360&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="佛山综合" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png" group-title="华南地区",佛山综合
+https://vip.taoiptv.com/live/iptv.php?id=140370&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="中山综合" tvg-logo="https://live.fanmingming.com/tv/中山综合.png" group-title="华南地区",中山综合
+https://vip.taoiptv.com/live/iptv.php?id=140375&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="中山香山" tvg-logo="https://live.fanmingming.com/tv/中山香山.png" group-title="华南地区",中山香山
+https://vip.taoiptv.com/live/iptv.php?id=140380&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://live.fanmingming.com/tv/潮州综合.png" group-title="华南地区",潮州综合
+https://vip.taoiptv.com/live/iptv.php?id=140390&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://live.fanmingming.com/tv/潮州民生.png" group-title="华南地区",潮州民生
+https://vip.taoiptv.com/live/iptv.php?id=140395&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河源综合" tvg-logo="https://live.fanmingming.com/tv/河源综合.png" group-title="华南地区",河源综合
+https://vip.taoiptv.com/live/iptv.php?id=140400&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河源公共" tvg-logo="https://live.fanmingming.com/tv/河源公共.png" group-title="华南地区",河源公共
+https://vip.taoiptv.com/live/iptv.php?id=140405&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="梅州-1" tvg-logo="https://live.fanmingming.com/tv/梅州-1.png" group-title="华南地区",梅州-1
+https://vip.taoiptv.com/live/iptv.php?id=140410&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="梅州客家" tvg-logo="https://live.fanmingming.com/tv/梅州客家.png" group-title="华南地区",梅州客家
+https://vip.taoiptv.com/live/iptv.php?id=140415&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="粤课堂" tvg-logo="https://live.fanmingming.com/tv/粤课堂.png" group-title="华南地区",粤课堂
+https://vip.taoiptv.com/live/iptv.php?id=140425&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png" group-title="华南地区",岭南戏曲
+https://vip.taoiptv.com/live/iptv.php?id=140430&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://live.fanmingming.com/tv/广西新闻.png" group-title="华南地区",广西新闻
+https://vip.taoiptv.com/live/iptv.php?id=140435&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://live.fanmingming.com/tv/广西都市.png" group-title="华南地区",广西都市
+https://vip.taoiptv.com/live/iptv.php?id=140445&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://live.fanmingming.com/tv/广西影视.png" group-title="华南地区",广西影视
+https://vip.taoiptv.com/live/iptv.php?id=140455&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="悦美生活" tvg-logo="https://live.fanmingming.com/tv/悦美生活.png" group-title="华南地区",悦美生活
+https://vip.taoiptv.com/live/iptv.php?id=140470&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="南宁新闻" tvg-logo="https://live.fanmingming.com/tv/南宁新闻.png" group-title="华南地区",南宁新闻
+https://vip.taoiptv.com/live/iptv.php?id=140475&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="南宁都市" tvg-logo="https://live.fanmingming.com/tv/南宁都市.png" group-title="华南地区",南宁都市
+https://vip.taoiptv.com/live/iptv.php?id=140480&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="南宁影视" tvg-logo="https://live.fanmingming.com/tv/南宁影视.png" group-title="华南地区",南宁影视
+https://vip.taoiptv.com/live/iptv.php?id=140485&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://live.fanmingming.com/tv/南宁公共.png" group-title="华南地区",南宁公共
+https://vip.taoiptv.com/live/iptv.php?id=140490&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="贺州综合" tvg-logo="https://live.fanmingming.com/tv/贺州综合.png" group-title="华南地区",贺州综合
+https://vip.taoiptv.com/live/iptv.php?id=140495&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="钦州综合" tvg-logo="https://live.fanmingming.com/tv/钦州综合.png" group-title="华南地区",钦州综合
+https://vip.taoiptv.com/live/iptv.php?id=140500&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="百色综合" tvg-logo="https://live.fanmingming.com/tv/百色综合.png" group-title="华南地区",百色综合
+https://vip.taoiptv.com/live/iptv.php?id=140505&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="来宾综合" tvg-logo="https://live.fanmingming.com/tv/来宾综合.png" group-title="华南地区",来宾综合
+https://vip.taoiptv.com/live/iptv.php?id=140510&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="柳州新闻" tvg-logo="https://live.fanmingming.com/tv/柳州新闻.png" group-title="华南地区",柳州新闻
+https://vip.taoiptv.com/live/iptv.php?id=140520&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="桂林新闻" tvg-logo="https://live.fanmingming.com/tv/桂林新闻.png" group-title="华南地区",桂林新闻
+https://vip.taoiptv.com/live/iptv.php?id=140525&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="北海新闻" tvg-logo="https://live.fanmingming.com/tv/北海新闻.png" group-title="华南地区",北海新闻
+https://vip.taoiptv.com/live/iptv.php?id=140530&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="玉林新闻" tvg-logo="https://live.fanmingming.com/tv/玉林新闻.png" group-title="华南地区",玉林新闻
+https://vip.taoiptv.com/live/iptv.php?id=140535&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="河池新闻" tvg-logo="https://live.fanmingming.com/tv/河池新闻.png" group-title="华南地区",河池新闻
+https://vip.taoiptv.com/live/iptv.php?id=140540&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="贵港新闻" tvg-logo="https://live.fanmingming.com/tv/贵港新闻.png" group-title="华南地区",贵港新闻
+https://vip.taoiptv.com/live/iptv.php?id=140545&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="梧州新闻" tvg-logo="https://live.fanmingming.com/tv/梧州新闻.png" group-title="华南地区",梧州新闻
+https://vip.taoiptv.com/live/iptv.php?id=140550&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="防城港新闻" tvg-logo="https://live.fanmingming.com/tv/防城港新闻.png" group-title="华南地区",防城港新闻
+https://vip.taoiptv.com/live/iptv.php?id=140555&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="https://live.fanmingming.com/tv/旅游卫视.png" group-title="华南地区",旅游卫视
+https://vip.taoiptv.com/live/iptv.php?id=140560&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="华南地区",海南新闻
+https://vip.taoiptv.com/live/iptv.php?id=140565&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="华南地区",海南自贸
+https://vip.taoiptv.com/live/iptv.php?id=140570&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="华南地区",海南公共
+https://vip.taoiptv.com/live/iptv.php?id=140575&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="华南地区",海南文旅
+https://vip.taoiptv.com/live/iptv.php?id=140580&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="华南地区",海南少儿
+https://vip.taoiptv.com/live/iptv.php?id=140585&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="海南风景" tvg-logo="https://live.fanmingming.com/tv/海南风景.png" group-title="华南地区",海南风景
+https://vip.taoiptv.com/live/iptv.php?id=140590&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="三亚1台" tvg-logo="https://live.fanmingming.com/tv/三亚1台.png" group-title="华南地区",三亚1台
+https://vip.taoiptv.com/live/iptv.php?id=140610&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="西南地区",重庆影视
+https://vip.taoiptv.com/live/iptv.php?id=150105&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="西南地区",重庆新闻
+https://vip.taoiptv.com/live/iptv.php?id=150110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆社会" tvg-logo="https://live.fanmingming.com/tv/重庆社会.png" group-title="西南地区",重庆社会
+https://vip.taoiptv.com/live/iptv.php?id=150115&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆时尚" tvg-logo="https://live.fanmingming.com/tv/重庆时尚.png" group-title="西南地区",重庆时尚
+https://vip.taoiptv.com/live/iptv.php?id=150120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="西南地区",重庆娱乐
+https://vip.taoiptv.com/live/iptv.php?id=150125&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="西南地区",重庆少儿
+https://vip.taoiptv.com/live/iptv.php?id=150130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="西南地区",重庆科教
+https://vip.taoiptv.com/live/iptv.php?id=150135&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="西南地区",重庆汽摩
+https://vip.taoiptv.com/live/iptv.php?id=150140&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆都市" tvg-logo="https://live.fanmingming.com/tv/重庆都市.png" group-title="西南地区",重庆都市
+https://vip.taoiptv.com/live/iptv.php?id=150150&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="西南地区",重庆移动
+https://vip.taoiptv.com/live/iptv.php?id=150160&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="睛彩重庆" tvg-logo="https://live.fanmingming.com/tv/睛彩重庆.png" group-title="西南地区",睛彩重庆
+https://vip.taoiptv.com/live/iptv.php?id=150162&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png" group-title="西南地区",重庆新农村
+https://vip.taoiptv.com/live/iptv.php?id=150165&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="四川影视" tvg-logo="https://live.fanmingming.com/tv/四川影视.png" group-title="西南地区",四川影视
+https://vip.taoiptv.com/live/iptv.php?id=150185&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="西南地区",四川科教
+https://vip.taoiptv.com/live/iptv.php?id=150190&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天府经典" tvg-logo="https://live.fanmingming.com/tv/天府经典.png" group-title="西南地区",天府经典
+https://vip.taoiptv.com/live/iptv.php?id=150255&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天府军旅" tvg-logo="https://live.fanmingming.com/tv/天府军旅.png" group-title="西南地区",天府军旅
+https://vip.taoiptv.com/live/iptv.php?id=150260&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天府教育" tvg-logo="https://live.fanmingming.com/tv/天府教育.png" group-title="西南地区",天府教育
+https://vip.taoiptv.com/live/iptv.php?id=150265&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天府辣妈" tvg-logo="https://live.fanmingming.com/tv/天府辣妈.png" group-title="西南地区",天府辣妈
+https://vip.taoiptv.com/live/iptv.php?id=150270&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天府风尚" tvg-logo="https://live.fanmingming.com/tv/天府风尚.png" group-title="西南地区",天府风尚
+https://vip.taoiptv.com/live/iptv.php?id=150275&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天府名医" tvg-logo="https://live.fanmingming.com/tv/天府名医.png" group-title="西南地区",天府名医
+https://vip.taoiptv.com/live/iptv.php?id=150280&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="天府魔力" tvg-logo="https://live.fanmingming.com/tv/天府魔力.png" group-title="西南地区",天府魔力
+https://vip.taoiptv.com/live/iptv.php?id=150285&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="西南地区",峨眉电影
+https://vip.taoiptv.com/live/iptv.php?id=150330&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="稻城电视台" tvg-logo="https://live.fanmingming.com/tv/稻城电视台.png" group-title="西南地区",稻城电视台
+https://vip.taoiptv.com/live/iptv.php?id=150390&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="宜宾新闻" tvg-logo="https://live.fanmingming.com/tv/宜宾新闻.png" group-title="西南地区",宜宾新闻
+https://vip.taoiptv.com/live/iptv.php?id=150400&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="陕西新闻" tvg-logo="https://live.fanmingming.com/tv/陕西新闻.png" group-title="西北地区",陕西新闻
+https://vip.taoiptv.com/live/iptv.php?id=160100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="陕西都市" tvg-logo="https://live.fanmingming.com/tv/陕西都市.png" group-title="西北地区",陕西都市
+https://vip.taoiptv.com/live/iptv.php?id=160105&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="陕西生活" tvg-logo="https://live.fanmingming.com/tv/陕西生活.png" group-title="西北地区",陕西生活
+https://vip.taoiptv.com/live/iptv.php?id=160110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="陕西影视" tvg-logo="https://live.fanmingming.com/tv/陕西影视.png" group-title="西北地区",陕西影视
+https://vip.taoiptv.com/live/iptv.php?id=160115&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://live.fanmingming.com/tv/陕西公共.png" group-title="西北地区",陕西公共
+https://vip.taoiptv.com/live/iptv.php?id=160120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="陕西体育" tvg-logo="https://live.fanmingming.com/tv/陕西体育.png" group-title="西北地区",陕西体育
+https://vip.taoiptv.com/live/iptv.php?id=160130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="西部电影" tvg-logo="https://live.fanmingming.com/tv/西部电影.png" group-title="西北地区",西部电影
+https://vip.taoiptv.com/live/iptv.php?id=160135&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="西安乐购" tvg-logo="https://live.fanmingming.com/tv/西安乐购.png" group-title="西北地区",西安乐购
+https://vip.taoiptv.com/live/iptv.php?id=160170&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="安康镇坪" tvg-logo="https://live.fanmingming.com/tv/安康镇坪.png" group-title="西北地区",安康镇坪
+https://vip.taoiptv.com/live/iptv.php?id=160180&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="安康综合" tvg-logo="https://live.fanmingming.com/tv/安康综合.png" group-title="西北地区",安康综合
+https://vip.taoiptv.com/live/iptv.php?id=160185&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="渭南新闻" tvg-logo="https://live.fanmingming.com/tv/渭南新闻.png" group-title="西北地区",渭南新闻
+https://vip.taoiptv.com/live/iptv.php?id=160200&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="眉县新闻" tvg-logo="https://live.fanmingming.com/tv/眉县新闻.png" group-title="西北地区",眉县新闻
+https://vip.taoiptv.com/live/iptv.php?id=160205&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://live.fanmingming.com/tv/咸阳综合.png" group-title="西北地区",咸阳综合
+https://vip.taoiptv.com/live/iptv.php?id=160215&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="宝鸡1" tvg-logo="https://live.fanmingming.com/tv/宝鸡1.png" group-title="西北地区",宝鸡1
+https://vip.taoiptv.com/live/iptv.php?id=160220&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="陈仓频道" tvg-logo="https://live.fanmingming.com/tv/陈仓频道.png" group-title="西北地区",陈仓频道
+https://vip.taoiptv.com/live/iptv.php?id=160235&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="城固频道" tvg-logo="https://live.fanmingming.com/tv/城固频道.png" group-title="西北地区",城固频道
+https://vip.taoiptv.com/live/iptv.php?id=160240&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="凤翔频道" tvg-logo="https://live.fanmingming.com/tv/凤翔频道.png" group-title="西北地区",凤翔频道
+https://vip.taoiptv.com/live/iptv.php?id=160250&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="扶风频道" tvg-logo="https://live.fanmingming.com/tv/扶风频道.png" group-title="西北地区",扶风频道
+https://vip.taoiptv.com/live/iptv.php?id=160255&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="佛坪频道" tvg-logo="https://live.fanmingming.com/tv/佛坪频道.png" group-title="西北地区",佛坪频道
+https://vip.taoiptv.com/live/iptv.php?id=160260&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="岚皋频道" tvg-logo="https://live.fanmingming.com/tv/岚皋频道.png" group-title="西北地区",岚皋频道
+https://vip.taoiptv.com/live/iptv.php?id=160270&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="麟游频道" tvg-logo="https://live.fanmingming.com/tv/麟游频道.png" group-title="西北地区",麟游频道
+https://vip.taoiptv.com/live/iptv.php?id=160275&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="留坝频道" tvg-logo="https://live.fanmingming.com/tv/留坝频道.png" group-title="西北地区",留坝频道
+https://vip.taoiptv.com/live/iptv.php?id=160280&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="陇县频道" tvg-logo="https://live.fanmingming.com/tv/陇县频道.png" group-title="西北地区",陇县频道
+https://vip.taoiptv.com/live/iptv.php?id=160285&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="宁强频道" tvg-logo="https://live.fanmingming.com/tv/宁强频道.png" group-title="西北地区",宁强频道
+https://vip.taoiptv.com/live/iptv.php?id=160300&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="商洛频道" tvg-logo="https://live.fanmingming.com/tv/商洛频道.png" group-title="西北地区",商洛频道
+https://vip.taoiptv.com/live/iptv.php?id=160305&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="榆林频道" tvg-logo="https://live.fanmingming.com/tv/榆林频道.png" group-title="西北地区",榆林频道
+https://vip.taoiptv.com/live/iptv.php?id=160320&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="洋县电视台" tvg-logo="https://live.fanmingming.com/tv/洋县电视台.png" group-title="西北地区",洋县电视台
+https://vip.taoiptv.com/live/iptv.php?id=160325&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="陕视融媒" tvg-logo="https://live.fanmingming.com/tv/陕视融媒.png" group-title="西北地区",陕视融媒
+https://vip.taoiptv.com/live/iptv.php?id=160350&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="西乡融媒" tvg-logo="https://live.fanmingming.com/tv/西乡融媒.png" group-title="西北地区",西乡融媒
+https://vip.taoiptv.com/live/iptv.php?id=160355&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="圆点生活" tvg-logo="https://live.fanmingming.com/tv/圆点生活.png" group-title="西北地区",圆点生活
+https://vip.taoiptv.com/live/iptv.php?id=160370&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="东北地区",黑龙江影视
+https://vip.taoiptv.com/live/iptv.php?id=170100&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="东北地区",黑龙江文体
+https://vip.taoiptv.com/live/iptv.php?id=170105&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.com/tv/黑龙江都市.png" group-title="东北地区",黑龙江都市
+https://vip.taoiptv.com/live/iptv.php?id=170110&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="东北地区",黑龙江少儿
+https://vip.taoiptv.com/live/iptv.php?id=170120&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://live.fanmingming.com/tv/黑龙江农业.png" group-title="东北地区",黑龙江农业
+https://vip.taoiptv.com/live/iptv.php?id=170130&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="齐齐哈尔经济" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济.png" group-title="东北地区",齐齐哈尔经济
+https://vip.taoiptv.com/live/iptv.php?id=170145&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林影视" tvg-logo="https://live.fanmingming.com/tv/吉林影视.png" group-title="东北地区",吉林影视
+https://vip.taoiptv.com/live/iptv.php?id=170155&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林东北" tvg-logo="https://live.fanmingming.com/tv/吉林东北.png" group-title="东北地区",吉林东北
+https://vip.taoiptv.com/live/iptv.php?id=170160&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林都市" tvg-logo="https://live.fanmingming.com/tv/吉林都市.png" group-title="东北地区",吉林都市
+https://vip.taoiptv.com/live/iptv.php?id=170165&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林公共" tvg-logo="https://live.fanmingming.com/tv/吉林公共.png" group-title="东北地区",吉林公共
+https://vip.taoiptv.com/live/iptv.php?id=170175&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林教育" tvg-logo="https://live.fanmingming.com/tv/吉林教育.png" group-title="东北地区",吉林教育
+https://vip.taoiptv.com/live/iptv.php?id=170180&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林篮球" tvg-logo="https://live.fanmingming.com/tv/吉林篮球.png" group-title="东北地区",吉林篮球
+https://vip.taoiptv.com/live/iptv.php?id=170185&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林生活" tvg-logo="https://live.fanmingming.com/tv/吉林生活.png" group-title="东北地区",吉林生活
+https://vip.taoiptv.com/live/iptv.php?id=170190&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CRT经济" tvg-logo="https://live.fanmingming.com/tv/CRT经济.png" group-title="东北地区",CRT经济
+https://vip.taoiptv.com/live/iptv.php?id=170200&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CRT汽车" tvg-logo="https://live.fanmingming.com/tv/CRT汽车.png" group-title="东北地区",CRT汽车
+https://vip.taoiptv.com/live/iptv.php?id=170205&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CRT市民" tvg-logo="https://live.fanmingming.com/tv/CRT市民.png" group-title="东北地区",CRT市民
+https://vip.taoiptv.com/live/iptv.php?id=170210&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CRT娱乐" tvg-logo="https://live.fanmingming.com/tv/CRT娱乐.png" group-title="东北地区",CRT娱乐
+https://vip.taoiptv.com/live/iptv.php?id=170215&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="CRT综合" tvg-logo="https://live.fanmingming.com/tv/CRT综合.png" group-title="东北地区",CRT综合
+https://vip.taoiptv.com/live/iptv.php?id=170220&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="讲述卫视" tvg-logo="https://live.fanmingming.com/tv/讲述卫视.png" group-title="东北地区",讲述卫视
+https://vip.taoiptv.com/live/iptv.php?id=170240&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林长影" tvg-logo="https://live.fanmingming.com/tv/吉林长影.png" group-title="东北地区",吉林长影
+https://vip.taoiptv.com/live/iptv.php?id=170290&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林扶余" tvg-logo="https://live.fanmingming.com/tv/吉林扶余.png" group-title="东北地区",吉林扶余
+https://vip.taoiptv.com/live/iptv.php?id=170300&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林图们" tvg-logo="https://live.fanmingming.com/tv/吉林图们.png" group-title="东北地区",吉林图们
+https://vip.taoiptv.com/live/iptv.php?id=170320&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="吉林双辽" tvg-logo="https://live.fanmingming.com/tv/吉林双辽.png" group-title="东北地区",吉林双辽
+https://vip.taoiptv.com/live/iptv.php?id=170330&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="柳河综合" tvg-logo="https://live.fanmingming.com/tv/柳河综合.png" group-title="东北地区",柳河综合
+https://vip.taoiptv.com/live/iptv.php?id=170355&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="辽宁影视" tvg-logo="https://live.fanmingming.com/tv/辽宁影视.png" group-title="东北地区",辽宁影视
+https://vip.taoiptv.com/live/iptv.php?id=170425&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://live.fanmingming.com/tv/辽宁都市.png" group-title="东北地区",辽宁都市
+https://vip.taoiptv.com/live/iptv.php?id=170430&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="东北地区",辽宁体育
+https://vip.taoiptv.com/live/iptv.php?id=170435&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://live.fanmingming.com/tv/辽宁生活.png" group-title="东北地区",辽宁生活
+https://vip.taoiptv.com/live/iptv.php?id=170440&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="辽宁教育" tvg-logo="https://live.fanmingming.com/tv/辽宁教育.png" group-title="东北地区",辽宁教育
+https://vip.taoiptv.com/live/iptv.php?id=170445&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.com/tv/辽宁北方.png" group-title="东北地区",辽宁北方
+https://vip.taoiptv.com/live/iptv.php?id=170450&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="辽宁移动" tvg-logo="https://live.fanmingming.com/tv/辽宁移动.png" group-title="东北地区",辽宁移动
+https://vip.taoiptv.com/live/iptv.php?id=170460&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.com/tv/辽宁公共.png" group-title="东北地区",辽宁公共
+https://vip.taoiptv.com/live/iptv.php?id=170465&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/tv/辽宁经济.png" group-title="东北地区",辽宁经济
+https://vip.taoiptv.com/live/iptv.php?id=170470&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="宜佳购物" tvg-logo="https://live.fanmingming.com/tv/宜佳购物.png" group-title="东北地区",宜佳购物
+https://vip.taoiptv.com/live/iptv.php?id=170480&sign=74b412&token=vj19lofy5hzoexdj
+#EXTINF:-1 tvg-name="2026-03-14 05:15:00" tvg-logo="https://live.fanmingming.com/tv/2026-03-14 05:15:00.png" group-title="更新时间",2026-03-14 05:15:00
+https://taoiptv.com/time.mp4
