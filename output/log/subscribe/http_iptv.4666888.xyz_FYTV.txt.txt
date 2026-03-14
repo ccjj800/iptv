@@ -1,3 +1,10 @@
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
 å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
 å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
 å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
@@ -6,6 +13,8 @@
 æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
 å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
 éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+
+é¢¨é²è©¦çé«è²é »é,#genre#
 SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
 SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
 astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
@@ -13,10 +22,12 @@ TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
 æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
 JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
 SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
 é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
 TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
-TVBæç,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
@@ -25,10 +36,12 @@ TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
 TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
-MYTVé»éç¿¡ç¿,http://iptv.4666888.xyz/iptv2A.php?id=32
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
 TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
 æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
 ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+
+é¢¨é²è©¦çèºç£é »é,#genre#
 TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
 éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
 æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
@@ -55,3 +68,6 @@ TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
 éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
 å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
 ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+
+
+
