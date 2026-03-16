@@ -1,8 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
-https://taoiptv.com/lives/41014.m3u?token=vj19lofy5hzoexdj
-https://taoiptv.com/lives/41015.m3u?token=vj19lofy5hzoexdj
-https://taoiptv.com/lives/41013.m3u?token=vj19lofy5hzoexdj
 http://47.120.41.246:8899/xinzb.txt
 http://rihou.cc:567/gggg.nzk
 https://ghfast.top/https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
