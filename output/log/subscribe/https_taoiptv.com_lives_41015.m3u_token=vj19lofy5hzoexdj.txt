@@ -403,5 +403,5 @@ http://39.165.39.49:19901/tsfile/live/1111_1.m3u8?key=txiptv
 http://39.165.39.49:19901/tsfile/live/1124_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="都市频道移动" tvg-logo="https://live.fanmingming.com/tv/都市频道移动.png" group-title="其他频道",都市频道移动
 http://39.165.39.49:19901/tsfile/live/1106_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="2026-03-15 02:29:05" tvg-logo="https://live.fanmingming.com/tv/2026-03-15 02:29:05.png" group-title="更新时间",2026-03-15 02:29:05
+#EXTINF:-1 tvg-name="2026-03-16 08:33:05" tvg-logo="https://live.fanmingming.com/tv/2026-03-16 08:33:05.png" group-title="更新时间",2026-03-16 08:33:05
 https://taoiptv.com/time.mp4

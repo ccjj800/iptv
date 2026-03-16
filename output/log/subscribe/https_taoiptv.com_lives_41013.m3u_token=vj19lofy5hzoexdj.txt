@@ -95,5 +95,5 @@ http://1.192.152.194:9901/tsfile/live/1034_1.m3u8?key=txiptv
 http://1.192.152.194:9901/tsfile/live/1029_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="福建东南" tvg-logo="https://live.fanmingming.com/tv/福建东南.png" group-title="其他频道",福建东南
 http://1.192.152.194:9901/tsfile/live/1032_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="2026-03-15 02:13:14" tvg-logo="https://live.fanmingming.com/tv/2026-03-15 02:13:14.png" group-title="更新时间",2026-03-15 02:13:14
+#EXTINF:-1 tvg-name="2026-03-16 08:13:49" tvg-logo="https://live.fanmingming.com/tv/2026-03-16 08:13:49.png" group-title="更新时间",2026-03-16 08:13:49
 https://taoiptv.com/time.mp4
