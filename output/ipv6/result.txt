@@ -1,11 +1,18 @@
 🕘️更新时间,#genre#
-2026-03-17 10:24:17,http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
+2026-03-17 11:38:22,http://k.061899.xyz/m.php?id=cctv16
 
 📺央视频道,#genre#
+CCTV-16,http://k.061899.xyz/m.php?id=cctv16
 
 📡卫视频道,#genre#
+北京卫视,https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
+广西卫视,https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
+青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
+山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+金鹰卡通,https://live.mgtv.com/?channelId=287
 
 电影频道,#genre#
+经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 
 港澳频道,#genre#
 
@@ -14,6 +21,17 @@
 电影轮播,#genre#
 
 电视剧集,#genre#
+橙记港剧,http://www.goodiptv.club/douyu/4549169
+好剧看不停,https://goodiptv.club/douyu/9388938
+龙视欢乐英雄转,https://goodiptv.club/douyu/9374836
+世界纪录大全,https://goodiptv.club/douyu/9406359
+钓鱼大锋子,https://goodiptv.club/douyu/10074370
+俩个麻瓜,https://goodiptv.club/douyu/10121755
+到远方旅行,https://goodiptv.club/douyu/9614588
+梦觉教游泳,https://goodiptv.club/douyu/4531679
+内蒙卡秋,https://goodiptv.club/douyu/9067858
+大胡子魏,https://goodiptv.club/douyu/8792763
 神雕侠侣,http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
 
 少儿频道,#genre#
+金鹰卡通,https://live.mgtv.com/?channelId=287
