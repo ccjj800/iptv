@@ -1,41 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ccjj800/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.163:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-17 11:38:22
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.164:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-18 15:15:16
 http://k.061899.xyz/m.php?id=cctv16
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-16" tvg-logo="http://10.1.0.163:5180/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-16" tvg-logo="http://10.1.0.164:5180/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://k.061899.xyz/m.php?id=cctv16
-#EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="http://10.1.0.163:5180/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
-https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
-#EXTINF:-1 tvg-id="4" tvg-name="广西卫视" tvg-logo="http://10.1.0.163:5180/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
-https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-#EXTINF:-1 tvg-id="5" tvg-name="青海卫视" tvg-logo="http://10.1.0.163:5180/logo/青海卫视.png" group-title="📡卫视频道",青海卫视
-http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="6" tvg-name="山西卫视" tvg-logo="http://10.1.0.163:5180/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="金鹰卡通" tvg-logo="http://10.1.0.163:5180/logo/金鹰卡通.png" group-title="📡卫视频道",金鹰卡通
-https://live.mgtv.com/?channelId=287
-#EXTINF:-1 tvg-id="8" tvg-name="经典电影" tvg-logo="http://10.1.0.163:5180/logo/经典电影.png" group-title="电影频道",经典电影
+#EXTINF:-1 tvg-id="3" tvg-name="经典电影" tvg-logo="http://10.1.0.164:5180/logo/经典电影.png" group-title="电影频道",经典电影
 https://yylunbo.ottiptv.cc/yy/1414812324
-#EXTINF:-1 tvg-id="9" tvg-name="橙记港剧" tvg-logo="http://10.1.0.163:5180/logo/橙记港剧.png" group-title="电视剧集",橙记港剧
-http://www.goodiptv.club/douyu/4549169
-#EXTINF:-1 tvg-id="10" tvg-name="好剧看不停" tvg-logo="http://10.1.0.163:5180/logo/好剧看不停.png" group-title="电视剧集",好剧看不停
-https://goodiptv.club/douyu/9388938
-#EXTINF:-1 tvg-id="11" tvg-name="龙视欢乐英雄转" tvg-logo="http://10.1.0.163:5180/logo/龙视欢乐英雄转.png" group-title="电视剧集",龙视欢乐英雄转
-https://goodiptv.club/douyu/9374836
-#EXTINF:-1 tvg-id="12" tvg-name="世界纪录大全" tvg-logo="http://10.1.0.163:5180/logo/世界纪录大全.png" group-title="电视剧集",世界纪录大全
-https://goodiptv.club/douyu/9406359
-#EXTINF:-1 tvg-id="13" tvg-name="钓鱼大锋子" tvg-logo="http://10.1.0.163:5180/logo/钓鱼大锋子.png" group-title="电视剧集",钓鱼大锋子
-https://goodiptv.club/douyu/10074370
-#EXTINF:-1 tvg-id="14" tvg-name="俩个麻瓜" tvg-logo="http://10.1.0.163:5180/logo/俩个麻瓜.png" group-title="电视剧集",俩个麻瓜
-https://goodiptv.club/douyu/10121755
-#EXTINF:-1 tvg-id="15" tvg-name="到远方旅行" tvg-logo="http://10.1.0.163:5180/logo/到远方旅行.png" group-title="电视剧集",到远方旅行
-https://goodiptv.club/douyu/9614588
-#EXTINF:-1 tvg-id="16" tvg-name="梦觉教游泳" tvg-logo="http://10.1.0.163:5180/logo/梦觉教游泳.png" group-title="电视剧集",梦觉教游泳
-https://goodiptv.club/douyu/4531679
-#EXTINF:-1 tvg-id="17" tvg-name="内蒙卡秋" tvg-logo="http://10.1.0.163:5180/logo/内蒙卡秋.png" group-title="电视剧集",内蒙卡秋
-https://goodiptv.club/douyu/9067858
-#EXTINF:-1 tvg-id="18" tvg-name="大胡子魏" tvg-logo="http://10.1.0.163:5180/logo/大胡子魏.png" group-title="电视剧集",大胡子魏
-https://goodiptv.club/douyu/8792763
-#EXTINF:-1 tvg-id="19" tvg-name="神雕侠侣" tvg-logo="http://10.1.0.163:5180/logo/神雕侠侣.png" group-title="电视剧集",神雕侠侣
-http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="金鹰卡通" tvg-logo="http://10.1.0.163:5180/logo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
-https://live.mgtv.com/?channelId=287
