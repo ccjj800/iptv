@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-21 15:31:06,http://107.150.60.122/live/cctv1hd.m3u8
+2026-03-22 10:57:15,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -34,10 +34,14 @@ CCTV-12,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV12
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV-14,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV14
+CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
 CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8
 CCTV-15,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV15
 CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV-16,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV16
+CCTV-16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+CCTV-16,http://69.30.246.194/live/cctv16.m3u8
+CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
 CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
 
@@ -61,6 +65,7 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
@@ -73,6 +78,7 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
 林正英影院,http://107.150.60.122/live/lblzy.m3u8
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 湖北影视,http://107.150.60.122/live/hbys.m3u8
 
 4K频道,#genre#
