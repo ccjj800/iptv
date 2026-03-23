@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-22 10:57:15,http://107.150.60.122/live/cctv1hd.m3u8
+2026-03-23 12:32:36,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -32,24 +32,24 @@ CCTV-11,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV11
 CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-12,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV12
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
+CCTV-13,http://iptv.4666888.xyz/iptv2A.php?id=11
 CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV-14,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV14
-CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
 CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8
 CCTV-15,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV15
 CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV-16,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV16
-CCTV-16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
-CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
+CCTV-16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+CCTV-16,http://k.061899.xyz/m.php?id=cctv16
 CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://107.150.60.122/live/gdwshd.m3u8
-浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
+广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
@@ -64,23 +64,33 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 
 ☘️河南频道,#genre#
 
+香港频道,#genre#
+翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+凤凰卫视,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+
 电影频道,#genre#
+四川峨眉电影4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
+北京淘电影,http://api.kkhk.itv888.vip:8080/streams/6403327f992/index.m3u8
+北京重温经典,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8
+重温经典,http://api.kkhk.itv888.vip:8080/streams/214856d804c/index.m3u8
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 成龙电影,http://107.150.60.122/live/lbcl.m3u8
 周润发电影,http://107.150.60.122/live/lbzrf.m3u8
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
 林正英影院,http://107.150.60.122/live/lblzy.m3u8
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-湖北影视,http://107.150.60.122/live/hbys.m3u8
+CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
+CHC影迷电影,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
 007电影,https://www.9kds.com/d/huya.php?id=21059585&kl=www.9kds.com
 梁家辉,https://www.9kds.com/d/huya.php?id=11342429&kl=www.9kds.com
 周润发,https://www.9kds.com/d/huya.php?id=11342387&kl=www.9kds.com
@@ -121,6 +131,7 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 
 其他频道,#genre#
 老故事,http://107.150.60.122/live/lgs.m3u8
+老故事,http://api.kkhk.itv888.vip:8080/streams/214856d804c/index.m3u8
 
 电视剧集,#genre#
 康熙微服私访记,http://156.238.251.141:82/lunbo/douyu.php?id=1006179
