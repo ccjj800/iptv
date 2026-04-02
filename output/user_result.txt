@@ -1,15 +1,15 @@
 🕘️更新时间,#genre#
-2026-04-02 18:53:56,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+2026-04-02 18:55:43,http://107.150.60.122/live/hnwshd.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
+广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
-重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8
@@ -18,9 +18,8 @@
 辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
-深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 

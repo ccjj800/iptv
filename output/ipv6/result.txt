@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-02 18:53:56,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
+2026-04-02 18:55:43,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
 
 📺央视频道,#genre#
 

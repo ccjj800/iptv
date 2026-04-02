@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ccjj800/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="🕘️更新时间",2026-04-02 18:53:56
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="🕘️更新时间",2026-04-02 18:55:43
 http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
 #EXTINF:-1 tvg-id="四川峨眉电影4K" tvg-name="四川峨眉电影4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川峨眉电影4K.png" group-title="电影频道",四川峨眉电影4K
 http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
