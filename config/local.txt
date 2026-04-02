@@ -4,3 +4,4 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
+CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
