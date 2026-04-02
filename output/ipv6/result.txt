@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-02 19:07:49,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
+2026-04-02 22:47:50,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 
 📺央视频道,#genre#
 
@@ -8,6 +8,10 @@
 ☘️河南频道,#genre#
 
 香港频道,#genre#
+翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+凤凰卫视,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 
 电影频道,#genre#
 四川峨眉电影4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
