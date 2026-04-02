@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-02 18:55:43,http://107.150.60.122/live/hnwshd.m3u8
+2026-04-02 18:57:42,http://107.150.60.122/live/hnwshd.m3u8
 
 📺央视频道,#genre#
 
@@ -28,7 +28,6 @@
 香港频道,#genre#
 
 电影频道,#genre#
-周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 
