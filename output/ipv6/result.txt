@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-10 20:15:02,http://221.13.234.104:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-04-10 21:02:01,http://221.13.234.104:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV1,http://221.13.234.104:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
