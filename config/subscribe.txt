@@ -6,6 +6,7 @@ https://taoiptv.com/lives/41024.m3u?token=vj19lofy5hzoexdj
 https://taoiptv.com/lives/41014.m3u?token=vj19lofy5hzoexdj
 https://raw.githubusercontent.com/ccjj800/zhiboyuan/main/py/gxtv.txt
 https://raw.githubusercontent.com/ccjj800/zhiboyuan/main/py/jiudianHD.txt
+https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
