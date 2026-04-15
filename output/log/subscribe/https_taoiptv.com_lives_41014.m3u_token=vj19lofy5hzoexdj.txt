@@ -181,5 +181,5 @@ http://123.12.186.252:9901/tsfile/live/1048_1.m3u8?key=txiptv
 http://123.12.186.252:9901/tsfile/live/1046_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="魅力音乐" tvg-logo="https://live.fanmingming.com/tv/魅力音乐.png" group-title="其他频道",魅力音乐
 http://125.43.241.91:9901/tsfile/live/1000_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="2026-04-14 04:38:21" tvg-logo="https://live.fanmingming.com/tv/2026-04-14 04:38:21.png" group-title="更新时间",2026-04-14 04:38:21
+#EXTINF:-1 tvg-name="2026-04-15 00:07:05" tvg-logo="https://live.fanmingming.com/tv/2026-04-15 00:07:05.png" group-title="更新时间",2026-04-15 00:07:05
 https://taoiptv.com/time.mp4
