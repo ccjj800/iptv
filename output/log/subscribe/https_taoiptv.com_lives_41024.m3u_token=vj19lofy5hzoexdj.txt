@@ -755,5 +755,5 @@ http://125.46.132.10:4000/rtp/225.1.2.235:11518
 http://222.141.236.118:8003/rtp/225.1.2.235:11518
 #EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://live.fanmingming.com/tv/风尚购物.png" group-title="其他频道",风尚购物
 http://aylzsu.cn:9999/rtp/225.1.2.235:11518
-#EXTINF:-1 tvg-name="2026-04-15 15:33:21" tvg-logo="https://live.fanmingming.com/tv/2026-04-15 15:33:21.png" group-title="更新时间",2026-04-15 15:33:21
+#EXTINF:-1 tvg-name="2026-04-17 18:27:55" tvg-logo="https://live.fanmingming.com/tv/2026-04-17 18:27:55.png" group-title="更新时间",2026-04-17 18:27:55
 https://taoiptv.com/time.mp4
